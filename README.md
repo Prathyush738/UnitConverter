@@ -1,15 +1,17 @@
 # UnitConverter
 [README_unit_converter.md](https://github.com/user-attachments/files/29672085/README_unit_converter.md)
-<img width="1915" height="1021" alt="UNIT CONVERTER (2)" src="https://github.com/user-attachments/assets/5808316d-9a66-4566-9432-095971517cc9" />
-<img width="1919" height="1017" alt="UNIT CONVERTER" src="https://github.com/user-attachments/assets/5e086495-e6fd-44d8-bd10-885f5b2d3f7e" />
+
+
 # ⇄ Unit Converter
 
-**Intern ID:**CITS3124
-**NAME:**PRATHYUSH PRASAD
-**NO.OF WEEKS:**1
+**Intern ID:** CITS3124
+**NAME:** PRATHYUSH PRASAD
+**NO.OF WEEKS:** 1
 **Company:** CodeTech IT Solutions  
 **Domain:** Python Programming  
 **PROJECT NAME:** unit converter  
+<img width="1915" height="1021" alt="UNIT CONVERTER (2)" src="https://github.com/user-attachments/assets/5808316d-9a66-4566-9432-095971517cc9" />
+<img width="1919" height="1017" alt="UNIT CONVERTER" src="https://github.com/user-attachments/assets/5e086495-e6fd-44d8-bd10-885f5b2d3f7e" />
 
 ## 📋 Project Description
 A powerful **Unit Converter** application built with Python that converts between units across **7 categories**. Features a clean GUI desktop app and a live Flask web app with instant conversion.
